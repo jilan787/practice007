@@ -1,0 +1,13 @@
+git init
+
+git add .   or git add (file)   or git add *
+
+git commit -m 'your message'
+
+git remote add origin 'your_url_name'
+
+
+git push -u origin master  (if it shows -->fatal: protocol ''https' is not supported(used this  :
+git remote set-url origin https://github.com/tomohikohanano/myPortfolio01.git)
+
+
